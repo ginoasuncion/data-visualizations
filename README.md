@@ -5,3 +5,4 @@ This will serve as a repository for various data visualizations, most of which w
 # Visualizations
 
 1. Forest plot for logistic regression: https://github.com/ginoasuncion/data-visualizations/blob/main/notebooks/forest-plot-for-logistic-regression.ipynb
+2. Boxplot with significance plot: https://github.com/ginoasuncion/data-visualizations/blob/main/notebooks/boxplot-with-significance-plot.ipynb
